@@ -81,9 +81,7 @@ However, you may find early prototypes, automation logic, and workflow samples h
 
 > 🔗 **Main Account:** [github.com/Dark-Vinaal](https://github.com/Dark-Vinaal)  
 > 📫 **Contact:** [via Main Profile → Discussions/Issues](https://github.com/Dark-Vinaal)  
-> 🔗 **Portfolio:** [Portfolio](https://vinaalr.netlify.app/)
-> 🔗 **LinkedIn** [LinkedIn](https://www.linkedin.com/in/vinaal/)
-> 🔗 **LinkTree** [LinkTree](https://linktr.ee/Darkxzz999)
+> 🔗 [Portfolio](https://vinaalr.netlify.app/) 🔗 [LinkedIn](https://www.linkedin.com/in/vinaal/) 🔗 [LinkTree](https://linktr.ee/Darkxzz999)
 
 - 💻 **Current Focus:** Full-Stack Development, Web Design, Software Developement, Editing, Gaming..  
 
