@@ -15,11 +15,27 @@ You can find my main active profile here:
 
 ---
 
+## 👨‍💻 AUTHOR 
+
+### Vinaal R
+
+Passionate Learner | Creative Developer | Coding Enthusiast
+
+- Always exploring. Always building. Always improving.
+- I learn by building. I grow by experimenting.
+- Coding isn’t just a skill for me — it’s a craft I’m shaping every single day.
+
+---
+
 ### 🌐 Contact Me : 
 
 <br>
-<div align="left">
+<div align="center">
 
+
+<a href="https://vinaalr.netlify.app/">
+  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
+</a>
 <a href="https://github.com/Dark-Vinaal">
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
 </a>
@@ -58,10 +74,6 @@ All official contributions, open-source releases, and major development updates 
 However, you may find early prototypes, automation logic, and workflow samples here.  
 
 > “A smart developer always keeps a second parachute.” 🪂  
-
-<a href="https://vinaalr.netlify.app/">
-  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
-</a>
 
 ---
 
